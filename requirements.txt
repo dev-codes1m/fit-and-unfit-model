@@ -1,0 +1,9 @@
+numpy 
+pandas
+scipy
+argparse
+tensorflow
+keras
+glob
+os
+PIL
